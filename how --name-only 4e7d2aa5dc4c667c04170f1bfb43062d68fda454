@@ -1,0 +1,13 @@
+[33mcommit 4e7d2aa5dc4c667c04170f1bfb43062d68fda454[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Viraj@2004 <gv.vutukuru@ufl.edu>
+Date:   Wed Feb 4 22:56:39 2026 +0000
+
+    Refactor Titanic dataset notebook for improved clarity and functionality
+    
+    - Updated execution counts for code cells to reflect proper order after changes.
+    - Adjusted layout parameters for better visualization in Plotly graphs, including height, margin, and autosize settings.
+    - Added checks to ensure the Titanic dataset is loaded correctly, handling kernel restarts gracefully.
+    - Improved data cleaning steps, including the use of pandas' string dtype for categorical columns and streamlined missing value handling.
+    - Enhanced co
+
+lessons/04-Supervised-ML/04-Supervised-ML-completed.ipynb
